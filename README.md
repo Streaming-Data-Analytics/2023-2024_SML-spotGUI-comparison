@@ -4,7 +4,7 @@ Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org
 
 Student: **[To be assigned]**
 
-The project will use the Python library spotGUI1,2 to test the hyper-parameter tuning in SML. The aim is to use the tool to find the best model with the best hyper-parameters values over time on two standard benchmarks.
+The project will use the Python library spotGUI([paper](https://arxiv.org/pdf/2402.11594.pdf), [code](https://github.com/sequential-parameter-optimization/spotGUI/tree/main)) to test the hyper-parameter tuning in SML. The aim is to use the tool to find the best model with the best hyper-parameters values over time on two standard benchmarks.
 
 The task consists in replicating the notebook 3 and 4 of the SML class applying the new spotGUI hyper-parameter tool. More in practice, for the NEWeather and Agrawal datasets, you have to find the best model with the best hyper-parameters values among Naïve Bayes, KNN, HT, HAT, ARF, Online Bagging, Leveraging Bagging, ARF, SRP.
 
