@@ -2,7 +2,7 @@
 
 Optional project of the [Streaming Data Analytics](http://emanueledellavalle.org/teaching/streaming-data-analytics-2023-24/) course provided by [Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811164&polij_device_category=DESKTOP&__pj0=0&__pj1=d563c55e73c3035baf5b0bab2dda086b).
 
-Student: **[To be assigned]**
+Student: **Nicolò Francesco Resmini**
 
 The project will use the Python library spotGUI ([paper](https://arxiv.org/pdf/2402.11594.pdf), [code](https://github.com/sequential-parameter-optimization/spotGUI/tree/main)) to test the hyper-parameter tuning in SML. The aim is to use the tool to find the best model with the best hyper-parameters values over time on two standard benchmarks.
 
