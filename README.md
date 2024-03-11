@@ -10,7 +10,8 @@ The task consists in replicating the notebook 3 and 4 of the SML class applying 
 
 You should use the same metrics used in the notebooks to make the results comparable:
 - Accuracy, Balanced Accuracy, Geometric Mean, and CohenKappa for NEWeather dataset, and
-- Accuracy, Balanced Accuracy, Geometric Mean, and CohenKappa with a Rolling window having size=50.
+- Accuracy, Balanced Accuracy, Geometric Mean, and CohenKappa with a Rolling window having size=50 for Agrawal dataset.
+
 Moreover, you should keep track of the Time, CPU and RAM usage to test and train the models. The project must also include some plots to better show the results.
 
 For each dataset, you are required to create a single .ipynb file. You must include comments for the principal instructions, and you are allowed to import external py modules. Additionally, ensure you thoroughly comment on the comparison results using various plots associated with the different metrics. Finally, again, within each .ipynb file, briefly discuss the conclusions that can be drawn from the experiment.
